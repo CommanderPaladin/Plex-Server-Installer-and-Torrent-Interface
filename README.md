@@ -1,2 +1,2 @@
-# Plex-Server-Installer-and-Torrent-Interfece
-A Plex Server Installer and Torrent Interfece
+# Plex-Server-Installer-and-Torrent-Interface
+A Plex Server Installer and Torrent Interface
